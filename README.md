@@ -1,6 +1,10 @@
-#Momworthy
+#Here's something to start with
 
-Pretty much just a new Symfony project at this point. I'll update this readme when it's something special.
+Pretty much your standard new Symfony project with bootstrap cooked in, asset pipeline hooked up, some configuration, etc.
+
+This is what I fork to start a new Symfony2 Bootstrap project.  You're welcome to as well.
+
+Here's the Symfony2 SE Readme details:
 
 Symfony Standard Edition
 ========================
